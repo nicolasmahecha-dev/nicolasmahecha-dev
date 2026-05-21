@@ -5,7 +5,7 @@ Full Stack Developer | DevOps & Cloud | Data Science
 🔭 Building production-ready apps with React, Node.js & AWS  
 🛠 Stack: JavaScript · Python · PostgreSQL · Docker · Terraform  
 📍 Colombia  
-📫 [LinkedIn] (https://www.linkedin.com/feed/nicolasmahechamartinez@gmail.com
+📫 [LinkedIn] (https://www.linkedin.com/feed/nicolasmahechamartinez@gmail.com)
 
 ---
 
